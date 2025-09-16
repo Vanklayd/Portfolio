@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Minimalistic Portfolio Website
@@ -16,3 +17,6 @@ Run `npm i` to install the dependencies.
 
 Run `npm run dev` to start the development server.
   
+=======
+# Portfolio
+>>>>>>> 288a345f30cfec35417674ef277ac528daf98612
