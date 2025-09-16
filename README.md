@@ -7,8 +7,3 @@ A minimalistic, modern, and responsive portfolio website built to showcase my 3 
 
 The design is inspired by contemporary UI trends, incorporating glassmorphism, smooth JavaScript transitions, and a sleek dark blue theme with complementary accent colors. Every section is designed to be clean, engaging, and user-friendly — reflecting both my technical skills and creative approach.
 
-
-  
-=======
-
->>>>>>> 288a345f30cfec35417674ef277ac528daf98612
